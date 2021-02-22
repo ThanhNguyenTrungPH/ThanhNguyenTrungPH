@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Nguyen Trung Thanh"
+title                    : "Nguyen Thanh"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
