@@ -1,4 +1,4 @@
-Personal website of Antoine Soetewey: [thanhnguyentrungph.github.io/thanh](thanhnguyentrungph.github.io/thanh/)
+Personal website of Nguyen Trung Thanh: [thanhnguyentrungph.github.io/thanh](thanhnguyentrungph.github.io/thanh/)
 
 # Contact
 
